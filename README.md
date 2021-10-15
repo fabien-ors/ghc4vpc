@@ -3,8 +3,8 @@ Geostatistical Hierarchical Clustering applied to Vertical Sand Proportion Curve
 
 ## Data preparation
 Two options:
-1- Use Flumy (https://flumy.minesparis.psl.eu) to generate 3D facies models, export virtual wells and VPC files
-2- Adapt the code to read files having another format
+* Use Flumy (https://flumy.minesparis.psl.eu) to generate 3D facies models, export virtual wells and VPC files
+* Adapt the code to read files having another format
 
 ## Running the script
 Simply execute the R code in ghc4vpc.R file.
