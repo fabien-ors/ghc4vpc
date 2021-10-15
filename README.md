@@ -6,7 +6,7 @@ Two options:
 * Use Flumy (https://flumy.minesparis.psl.eu) to generate 3D facies models, export virtual wells and VPC files
 * Adapt the code to read files having another format
 
-Currently, to VPC examples are provided:
+Currently, two VPC examples are provided:
 * Loranca Basin (Spain) VPC (8 wells) : Stats1m
 * Synthetic VPC (20 wells / 3 units) : 3u_20w
 
