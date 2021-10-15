@@ -1,5 +1,5 @@
 # ghc4vpc
-Geostatistical Hierarchical Clustering applied to Vertical Sand Proportion Curves
+Geostatistical Hierarchical Clustering (GHC) applied to Vertical Sand Proportion Curves (VPC)
 
 ## Data preparation
 Two options:
