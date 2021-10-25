@@ -3,9 +3,9 @@ Geostatistical Hierarchical Clustering (GHC) applied to Vertical Sand Proportion
 This technique is used during the reservoir modeling early steps in order to propose automatically to split the reservoir into sedimentary units (based on sand proportion) deduced from well data (see references).
 
 ## Data preparation
-Two options:
-* Use Flumy (https://flumy.minesparis.psl.eu) to generate 3D facies models, export virtual wells and VPC files
-* Adapt the code to read files having another format
+Input data are Vertical Proportion Curves for sand data coming from wells. Two options are proposed:
+* Use Flumy (https://flumy.minesparis.psl.eu) to generate 3D facies models and export virtual wells and VPC files
+* Adapt the code to read VPC files having another format
 
 Currently, two VPC examples are provided:
 * Loranca Basin (Spain) VPC (8 wells) : Stats1m
