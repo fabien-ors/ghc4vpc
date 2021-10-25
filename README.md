@@ -1,5 +1,6 @@
 # ghc4vpc
-Geostatistical Hierarchical Clustering (GHC) applied to Vertical Sand Proportion Curves (VPC)
+Geostatistical Hierarchical Clustering (GHC) applied to Vertical Sand Proportion Curves (VPC).
+This technique is used during the reservoir modeling early steps in order to propose automatically to split the reservoir into sedimentary units (based on sand proportion) deduced from well data (see references).
 
 ## Data preparation
 Two options:
